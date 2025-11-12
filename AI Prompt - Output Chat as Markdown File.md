@@ -1,0 +1,2 @@
+Output this entire chat as a markdown file. Create a level 1 markdown header that is the title of the chat. Label each prompt that I entered with a level 2 bold markdown header. Format the prompt as markdown quoted text. Label each response from gemini with a bold level 2 markdown header. Include all of the text from the entire chat, but remove all emojis. You must wrap the entire output in a single markdown code block (using `markdown...`).
+
